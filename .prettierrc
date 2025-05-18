@@ -1,0 +1,5 @@
+{
+  "plugins": ["prettier-plugin-css-order"],
+  "cssOrder": "concentric-css",
+  "tabWidth": 4
+}
