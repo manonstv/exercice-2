@@ -3,14 +3,6 @@ node_modules/
 build/
 .env
 
-# Node + Prettier package files
-package-lock.json
-
-# Prettier config and cache
-.prettierrc
-.prettierignore
-.prettiercache
-
 # Prettier output
 *.log
 
