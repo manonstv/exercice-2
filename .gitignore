@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Prettier output
+*.log
+
+# Optional: ignore output from Prettier formatting
+.prettiercache
