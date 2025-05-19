@@ -5,6 +5,7 @@ build/
 
 # Prettier output
 *.log
+.prettierrc
 
 # Logs
 npm-debug.log*
